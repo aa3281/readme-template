@@ -4,8 +4,20 @@
    <ol>
       <li><a href="">Demo and Screenshot</a></li>
       <li><a href="">Key Features</a></li>
-      <li><a href="">Usage</a></li>
-      <li><a href="">Demo and Screenshot</a></li>
+      <li><a href="">Getting Started</a></li>
+      <li>
+         <ol>
+            <li><a href="">Prerequisites</a></li>
+            <li><a href="">Development</a></li>
+         </ol>
+      <li>
+      <li><a href="">To-Do</a></li>
+      <li><a href="">Built With</a></li>
+      <li><a href="">Feedback</a></li>
+      <li><a href="">Contributing</a></li>
+      <li><a href="">Meta</a></li>
+      <li><a href="">Acknowledgements</a></li>
+
    </ol>
    
 </details>
