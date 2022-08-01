@@ -21,75 +21,33 @@ Here is a working live demo : https://example.com
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
 ### Prerequisities
-
-This is an example of how to list things you need to use the software and how to install them
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+- node `npm install node`
 
 ### Development
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
-```
-Development
-
 Easily set up a local development environment!
 
-Build project and start storybook on localhost:
-
-    clone
-    npm install
-    npm start
-
-Start coding! tada
-Or setup with npm link
-```
-
-```
-Clone the repo
-
-git clone https://github.com/your_username_/Project-Name.git
-
-Install NPM packages
-
-npm install
-
-Enter your API in config.js
-
-const API_KEY = 'ENTER YOUR API';
-```
+1. Clone the repo
+    ```git clone https://github.com/your_username_/Project-Name.git```
+2. Install the NPM packages 
+    ```npm install```
+3. Enter your API in config.js
+    ```const API_KEY = 'ENTER YOUR API';```
 
 ## To-Do
 - [ ] To-do item 1
 - [ ] To-do item 2
 - [ ] To-do item 3
-- [ ] 
 
+## Feedback and Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. All contributions are welcome!
 
-## Built With
--
-
-## Feedback
-
-## Contributing
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
+2. Create your feature branch (`git checkout -b feature/amazingFeature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazingFeature`)
 5. Create a new Pull Request
-
-## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
 
 ## Acknowledgements
 
