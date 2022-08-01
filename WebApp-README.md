@@ -1,6 +1,14 @@
-<table>
-   Table of Contents
-</table>
+<details>
+<summary>Table of Contents</summary>
+<br>
+   <ol>
+      <li><a href="">Demo and Screenshot</a></li>
+      <li><a href="">Key Features</a></li>
+      <li><a href="">Usage</a></li>
+      <li><a href="">Demo and Screenshot</a></li>
+   </ol>
+   
+</details>
 
 # Product Name
 > Short blurb about what your product does.
@@ -21,13 +29,16 @@ Here is a working live demo : https://example.com
 - Feature 2
 - Feature 3
 
-## Usage example
+## Getting Started
+_For more examples and usage, please refer to the [Wiki][wiki]._
+
+### Prerequisities
+
+This is an example of how to list things you need to use the software and how to install them
 
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
+### Development
 
 Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
@@ -50,13 +61,19 @@ Start coding! tada
 Or setup with npm link
 ```
 
-## Meta
+```
+Clone the repo
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+git clone https://github.com/your_username_/Project-Name.git
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Install NPM packages
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+npm install
+
+Enter your API in config.js
+
+const API_KEY = 'ENTER YOUR API';
+```
 
 ## Feedback
 
@@ -74,6 +91,14 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 - [ ] To-do item 1
 - [ ] To-do item 2
 - [ ] To-do item 3
+
+## Meta
+
+Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+
+Distributed under the XYZ license. See ``LICENSE`` for more information.
+
+[https://github.com/yourname/github-link](https://github.com/dbader/)
 
 ## Acknowledgements
 
