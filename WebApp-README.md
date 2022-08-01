@@ -1,3 +1,7 @@
+<table>
+   Table of Contents
+</table>
+
 # Product Name
 > Short blurb about what your product does.
 
@@ -7,21 +11,15 @@
 
 One to two paragraph statement about your product and what it does.
 
+## Demo and Screenshot
 ![](header.png)
 
-## Installation
+Here is a working live demo : https://example.com
 
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
+## Key Features
+- Feature 1
+- Feature 2
+- Feature 3
 
 ## Usage example
 
@@ -37,21 +35,20 @@ Describe how to install all development dependencies and how to run an automated
 make install
 npm test
 ```
+```
+Development
 
-## Release History
+Easily set up a local development environment!
 
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
+Build project and start storybook on localhost:
+
+    clone
+    npm install
+    npm start
+
+Start coding! tada
+Or setup with npm link
+```
 
 ## Meta
 
@@ -61,6 +58,8 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 [https://github.com/yourname/github-link](https://github.com/dbader/)
 
+## Feedback
+
 ## Contributing
 
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
@@ -68,6 +67,17 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
+
+## Built With
+
+## To-Do
+- [ ] To-do item 1
+- [ ] To-do item 2
+- [ ] To-do item 3
+
+## Acknowledgements
+
+
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
