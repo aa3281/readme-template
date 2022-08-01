@@ -1,27 +1,3 @@
-<details>
-<summary>Table of Contents</summary>
-<br>
-   <ol>
-      <li><a href=".md#Demo and Screenshot">Demo and Screenshot</a></li>
-      <li><a href="#Key Features">Key Features</a></li>
-      <li><a href="#Getting Started">Getting Started</a></li>
-      <li>
-         <ol>
-            <li><a href=".md#Prerequisites">Prerequisites</a></li>
-            <li><a href="#Development">Development</a></li>
-         </ol>
-      <li>
-      <li><a href="#To-Do">To-Do</a></li>
-      <li><a href="#Built With">Built With</a></li>
-      <li><a href="#Feedback">Feedback</a></li>
-      <li><a href="#Contributing">Contributing</a></li>
-      <li><a href="#Meta">Meta</a></li>
-      <li><a href="#Acknowledgements">Acknowledgements</a></li>
-
-   </ol>
-   
-</details>
-
 # Product Name
 > Short blurb about what your product does.
 
@@ -87,6 +63,16 @@ Enter your API in config.js
 const API_KEY = 'ENTER YOUR API';
 ```
 
+## To-Do
+- [ ] To-do item 1
+- [ ] To-do item 2
+- [ ] To-do item 3
+- [ ] 
+
+
+## Built With
+-
+
 ## Feedback
 
 ## Contributing
@@ -97,13 +83,6 @@ const API_KEY = 'ENTER YOUR API';
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
-## Built With
-
-## To-Do
-- [ ] To-do item 1
-- [ ] To-do item 2
-- [ ] To-do item 3
-
 ## Meta
 
 Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
@@ -113,8 +92,6 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [https://github.com/yourname/github-link](https://github.com/dbader/)
 
 ## Acknowledgements
-
-
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
