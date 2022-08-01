@@ -31,6 +31,11 @@ Easily set up a local development environment!
 3. Enter your API in config.js
     ```const API_KEY = 'ENTER YOUR API';```
 
+## Built With
+- React
+- Node
+- Bootstrap
+
 ## To-Do
 - [ ] To-do item 1
 - [ ] To-do item 2
