@@ -2,12 +2,12 @@
 <summary>Table of Contents</summary>
 <br>
    <ol>
-      <li><a href="#Demo and Screenshot">Demo and Screenshot</a></li>
+      <li><a href=".md#Demo and Screenshot">Demo and Screenshot</a></li>
       <li><a href="#Key Features">Key Features</a></li>
       <li><a href="#Getting Started">Getting Started</a></li>
       <li>
          <ol>
-            <li><a href="#Prerequisites">Prerequisites</a></li>
+            <li><a href=".md#Prerequisites">Prerequisites</a></li>
             <li><a href="#Development">Development</a></li>
          </ol>
       <li>
