@@ -1,8 +1,4 @@
 # Product Name
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 > Short blurb about what your product does.
 
 ## Demo and Screenshot
@@ -15,13 +11,7 @@ Here is a working live demo : https://example.com
 - Feature 2
 - Feature 3
 
-## Getting Started
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-### Prerequisities
-- node `npm install node`
-
-### Development
+## Development
 Easily set up a local development environment!
 
 1. Clone the repo
