@@ -17,7 +17,7 @@ Easily set up a local development environment!
 1. Clone the repo
     ```git clone https://github.com/your_username_/Project-Name.git```
 2. Install the NPM packages 
-    ```npm start```
+    ```npm install```
 3. Enter your API in config.js
     ```const API_KEY = 'ENTER YOUR API';```
 
