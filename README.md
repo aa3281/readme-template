@@ -15,7 +15,7 @@ Here is a working live demo : https://example.com
 Easily set up a local development environment!
 
 1. Clone the repo
-    ```git clone https://github.com/your_username_/Project-Name.git```
+    ```git clone git@github.com:aa3281/[repo name]```
 2. Install the NPM packages 
     ```npm install```
 3. Enter your API in config.js
@@ -36,7 +36,7 @@ Contributions are what make the open source community such an amazing place to l
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<git@github.com:aa3281/[repo name]/fork>)
 2. Create your feature branch (`git checkout -b feature/amazingFeature`)
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazingFeature`)
