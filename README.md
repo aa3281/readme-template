@@ -36,7 +36,7 @@ Contributions are what make the open source community such an amazing place to l
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 
-1. Fork it (<git@github.com:aa3281/[repo name]/fork>)
+1. Fork it 
 2. Create your feature branch (`git checkout -b feature/amazingFeature`)
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazingFeature`)
