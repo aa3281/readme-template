@@ -2,7 +2,7 @@
 > Short blurb about what your product does.
 
 ## Demo and Screenshot
-![](header.png)
+![](screenshot.png)
 
 Here is a working live demo : https://example.com
 
@@ -43,11 +43,3 @@ If you have a suggestion that would make this better, please fork the repo and c
 5. Create a new Pull Request
 
 ## Acknowledgements
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
